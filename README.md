@@ -61,7 +61,7 @@ coloque desta forma "npx ts-node --files --transpile-only"
 Sempre que fizer alterações no codigo precisa rodar este comando:
 
 exemplo:
-- npx webpack
+npm run build
 
 pro seu codigo ser validado e subir para pasta 'dist' que é onde armazena e é valido em produção
 e a mesma pasta é onde que contem o html, ela fica oculta no gitignore.
