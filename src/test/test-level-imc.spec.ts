@@ -1,4 +1,4 @@
-import { getNivelImc } from '../ts/levelImc';
+import { getNivelImc } from '../services/levelImc';
 
 describe('Nivel imc', () => {
   afterEach(() => jest.clearAllMocks());

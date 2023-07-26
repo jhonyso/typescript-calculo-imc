@@ -1,4 +1,4 @@
-import { getImc } from '../ts/weight-height';
+import { getImc } from '../services/weight-height';
 
 it('Deve calcular corretamente', () => {
   const imc = getImc;

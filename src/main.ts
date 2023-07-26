@@ -1,7 +1,7 @@
 //Capiturar evento de submit do formulario
-import { getImc } from './ts/weight-height';
-import { getNivelImc } from './ts/levelImc';
-import { setResultado } from './ts/result';
+import { getImc } from './services/weight-height';
+import { getNivelImc } from './services/levelImc';
+import { setResultado } from './services/result';
 
 const form = document.querySelector('#form') as HTMLFormElement;
 
