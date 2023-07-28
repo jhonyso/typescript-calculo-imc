@@ -1,4 +1,4 @@
-# # Projeto typescript-jest-test
+# # Projeto typescript-calculo-imc
 
 O objetivo deste projeto é a padronização para os testes de unidade
 
